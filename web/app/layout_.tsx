@@ -25,6 +25,7 @@ const LocaleLayout = ({
   children: React.ReactNode
 }) => {
   const locale = getLocaleOnServer()
+
   return (
     <html lang={locale ?? 'en'} className="h-full" data-theme="light">
       <head>

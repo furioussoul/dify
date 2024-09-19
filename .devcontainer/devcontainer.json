@@ -20,7 +20,7 @@
 			"azureDnsAutoDetection": true,
 			"installDockerBuildx": true,
 			"version": "latest",
-			"dockerDashComposeVersion": "v2"
+			"dockerDashComposeVersion": "v2.29.1"
 		}
 	},
 	"customizations": {

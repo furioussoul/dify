@@ -11,6 +11,7 @@ import {
   RiMessage3Line,
   RiRobot3Line,
 } from '@remixicon/react'
+import Test_USE_EFFECT from './test_useeffect'
 import AppCard from './AppCard'
 import NewAppCard from './NewAppCard'
 import useAppsQueryState from './hooks/useAppsQueryState'

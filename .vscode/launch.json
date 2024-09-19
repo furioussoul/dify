@@ -50,5 +50,13 @@
                 "dataset,generation,mail,ops_trace,app_deletion"
             ]
         },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/web",
+            "sourceMaps": true
+          }
     ]
 }
